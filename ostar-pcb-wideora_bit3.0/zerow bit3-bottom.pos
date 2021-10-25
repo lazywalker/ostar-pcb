@@ -1,0 +1,8 @@
+### Module positions - created on 12/12/18 12:13:58 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                PosX       PosY       Rot  Side
+J3        Conn_01x02  GS2                204.6859   -80.2640  270.0000  bottom
+J6        PWR         GS2                202.6539  -103.8225  270.0000  bottom
+## End

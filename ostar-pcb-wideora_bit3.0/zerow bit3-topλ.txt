@@ -1,0 +1,24 @@
+### Module positions - created on 12/12/18 12:13:58 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                PosX       PosY       Rot  Side
+C1        2.2uF       R_0603             205.1304   -90.2970  180.0000  top
+C2        2.2uF       R_0603             212.3694   -92.7100  270.0000  top
+C3        2.2uF       C_0603             210.7184   -96.1390  270.0000  top
+C5        2.2uF       C_0603             193.5734   -77.0890    0.0000  top
+C6        2.2uF       C_0603             159.2834   -82.1690    0.0000  top
+D1        S1          D_SOD-323F         166.1922   -88.0110  180.0000  top
+D2        LED         LED_0603           175.0949   -77.3430    0.0000  top
+J1        USB_OTG     USB_Micro-B        189.8884  -102.3015    0.0000  top
+J2        USB_OTG     USB_Micro-B        202.4884  -102.3015    0.0000  top
+R1        5.1K        R_0603             210.8454   -92.7100   90.0000  top
+R2        1K          R_0603             166.2684   -89.8906  180.0000  top
+R3        1K          R_0603             178.2064   -77.3430    0.0000  top
+R4        0R          R_0603             171.2214   -77.8510    0.0000  top
+R5        5.1K        R_0603             189.9664   -77.0890    0.0000  top
+SW1       WPS         SW_SPST_EVQP7C     158.3756  -102.2350    0.0000  top
+SW2       CPU         SW_SPST_EVQP7C     163.9128  -102.2350    0.0000  top
+U2        LT1084-3.3  SOT-223            208.1784   -85.6488    0.0000  top
+U3        CP2104      qfn24              207.1878   -93.7006    0.0000  top
+## End
